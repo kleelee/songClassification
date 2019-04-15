@@ -1,0 +1,10 @@
+Flask
+gunicorn
+ipython
+jupyter
+matplotlib
+nltk
+pandas
+scikit-learn
+seaborn
+tensorflow
